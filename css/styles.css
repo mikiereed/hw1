@@ -1,0 +1,44 @@
+body {
+    background-color:blue;
+    color:white;
+}
+
+
+#current {
+    font-family:cursive;
+    border-bottom:3px black dashed;
+}
+
+h1 {
+    font-family:'Liu Jian Mao Cao', cursive;
+    font-size:4em;
+    margin-bottom:0px;
+}
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+nav a {
+    padding:25px;
+    padding-bottom:10px;
+    font-size:1.5em;
+    text-decoration:none;
+    color:black;
+    font-family:monospace;
+}
+
+nav a:hover {
+    border-bottom:5px black solid;
+    font-size:4em;
+    transition:2s;
+}
+
+main {
+    justify-content:center;
+}
+
+footer {
+    font-size:1em;
+    color:gray;
+}

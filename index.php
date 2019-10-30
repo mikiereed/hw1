@@ -9,6 +9,7 @@ CST 336
         <meta charset="utf-8" />
         <title> Operating Systems </title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
     </head>
     <body>
         <header>
@@ -24,7 +25,7 @@ CST 336
         <br /><br />
         <main>
            <figure>
-              <img src="img/motherboard.jpg" alt="Picture of a Motherboard" />
+              <img src="img/motherboard.png" alt="Picture of a Motherboard" />
            </figure>
            <div>
               <h2>What is an "Operating System"?</h2>
