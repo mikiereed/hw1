@@ -5,8 +5,9 @@ body {
 
 
 #current {
-    font-family:cursive;
+    font-family:'Liu Jian Mao Cao', cursive;
     border-bottom:3px black dashed;
+    font-size:2.5em;
 }
 
 h1 {
@@ -14,6 +15,8 @@ h1 {
     font-size:4em;
     margin-bottom:0px;
 }
+
+
 
 header, main, nav, footer {
     text-align: center;
@@ -24,13 +27,12 @@ nav a {
     padding-bottom:10px;
     font-size:1.5em;
     text-decoration:none;
-    color:black;
     font-family:monospace;
 }
 
 nav a:hover {
     border-bottom:5px black solid;
-    font-size:4em;
+    font-size:2.5em;
     transition:2s;
 }
 

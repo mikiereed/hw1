@@ -22,17 +22,18 @@ CST 336
            <a href="mac.html">Mac OS</a>
            <a href="linux.html">Linux</a>
         </nav>
-        <br /><br />
+        <br />
         <main>
            <figure>
               <img src="img/motherboard.png" alt="Picture of a Motherboard" />
            </figure>
+           <hr />
            <div>
               <h2>What is an "Operating System"?</h2>
               <p>The operating system is what runs a computer. It is the 
                  operating system that decides what happens, what runs, 
                  and what gets the resources.</p>
-              <hr>
+              <br />
               <h2>What are the main Operating Systems?</h2>
               <p>There are three main operating systems: Windows, Mac OS,
                   and Linux.</p>
@@ -40,7 +41,9 @@ CST 336
         </main>
         <footer>
             <hr>
-            CST336 Internet Programming. 2019&copy; mikie Reed <br />
+            CST336 Internet Programming.
+            <br />
+            2019&copy; mikie Reed <br />
             <img src="img/csumb_logo.png" alt="CSUMB Logo" />
         </footer>
     </body>
