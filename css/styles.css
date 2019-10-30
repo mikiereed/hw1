@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover {
-    transition: width 1.5s;
+    border-bottom: 2px white dotted;
 }
 
 p {
