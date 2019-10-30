@@ -33,6 +33,7 @@ CST 336
               <p>The operating system is what runs a computer. It is the 
                  operating system that decides what happens, what runs, 
                  and what gets the resources.</p>
+              <a href="https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/">*GCFGlobal</a> 
               <br />
               <h2>What are the main Operating Systems?</h2>
               <p>There are three main operating systems: Windows, Mac OS,

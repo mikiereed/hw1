@@ -2,6 +2,7 @@ body {
     background-color:blue;
     color:white;
     font-family:monospace;
+    font-size:1.5em;
 }
 
 
@@ -18,7 +19,7 @@ h1 {
 }
 
 h2 {
-    font-family: fantasy;
+    font-family: cursive;
 }
 
 header, main, nav, footer {
