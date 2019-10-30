@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover {
-    transform: rotate(0.5);
+    transition: width 1.5s;
 }
 
 p {
