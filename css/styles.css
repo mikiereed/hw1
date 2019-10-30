@@ -51,9 +51,7 @@ nav a {
 }
 
 nav a:hover {
-    border-bottom:5px black solid;
-    font-size:2.2em;
-    transition:2s;
+    animation: bounceIn 2s;
 }
 
 p {
